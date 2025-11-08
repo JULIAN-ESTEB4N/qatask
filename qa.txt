@@ -1,0 +1,3 @@
+Que son los QA
+
+Los QA, siglas de Quality Assurance (Garantía de Calidad), son profesionales o un proceso dedicado a asegurar que los productos o servicios de una organización cumplan con los estándares de calidad definidos. Su función principal en el desarrollo de software es encontrar y prevenir errores antes de que un producto sea lanzado al mercado, asegurando que sea confiable, utilizable y robusto
