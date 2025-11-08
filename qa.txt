@@ -9,3 +9,7 @@ Las especialidades en QA (Quality Assurance) incluyen perfiles como el QA Analys
 que estudiar para ser qa
 
 Para ser un profesional de QA (Quality Assurance), puedes estudiar carreras técnicas como Ingeniería Informática o Ingeniería de Software. Sin embargo, no es obligatorio tener una carrera universitaria y puedes especializarte mediante cursos de testing, bootcamps y certificaciones como las del ISTQB, complementando tus estudios con habilidades técnicas en programación (Python, Java), bases de datos (SQL) y herramientas de testing (Selenium, JIRA). 
+
+rango salarial qa
+
+El rango salarial para profesionales de QA en Colombia varía según el puesto, experiencia y ubicación, pero generalmente se encuentra entre $2.600.000 y $4.000.000 COP al mes para roles como Tester o Analista, pudiendo superar los $13.000.000 COP para puestos de alta especialización como Test Automation Engineer
