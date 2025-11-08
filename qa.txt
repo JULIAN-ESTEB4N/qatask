@@ -5,3 +5,7 @@ Los QA, siglas de Quality Assurance (Garantía de Calidad), son profesionales o 
 Especialidades QA
 
 Las especialidades en QA (Quality Assurance) incluyen perfiles como el QA Analyst (testing manual), el QA Automation Engineer (automatización), el SDET (ingeniería de desarrollo para pruebas) y el Test Architect (diseño estratégico). Estos roles se enfocan en diferentes áreas, desde la ejecución de pruebas funcionales y la automatización de procesos hasta la planificación estratégica y la integración en los ciclos de desarrollo. 
+
+que estudiar para ser qa
+
+Para ser un profesional de QA (Quality Assurance), puedes estudiar carreras técnicas como Ingeniería Informática o Ingeniería de Software. Sin embargo, no es obligatorio tener una carrera universitaria y puedes especializarte mediante cursos de testing, bootcamps y certificaciones como las del ISTQB, complementando tus estudios con habilidades técnicas en programación (Python, Java), bases de datos (SQL) y herramientas de testing (Selenium, JIRA). 
