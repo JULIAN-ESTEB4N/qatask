@@ -13,3 +13,5 @@ Para ser un profesional de QA (Quality Assurance), puedes estudiar carreras téc
 rango salarial qa
 
 El rango salarial para profesionales de QA en Colombia varía según el puesto, experiencia y ubicación, pero generalmente se encuentra entre $2.600.000 y $4.000.000 COP al mes para roles como Tester o Analista, pudiendo superar los $13.000.000 COP para puestos de alta especialización como Test Automation Engineer
+
+y esto seria lo basico para ser un QA Gracias
